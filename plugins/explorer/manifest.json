@@ -1,0 +1,10 @@
+{
+  "pluginVersion": 1.0,
+  "name": "explorer",
+  "myVersion": "v.1.0.0",
+  "shortDescription": "A Munhumutapa block explorer plugin",
+  "infoUrl": "https://munhumutapaalpha.js.org/plugins",
+  "startPage": "p_explorer",
+  "nrsVersion": "1.1.1",
+  "deactivated": false
+}

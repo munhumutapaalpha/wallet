@@ -1,0 +1,33 @@
+{
+  "name": "munhumutapa-blockchain",
+  "version": "2.2.6",
+  "description": "Client API library for the Munhumutupa Blockchain",
+  "main": "nrs.node.bridge.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/Munhumutapa/munhumutapa.git"
+  },
+  "keywords": [
+    "blockchain",
+    "client",
+    "api"
+  ],
+  "author": "Munhumutapa Inc",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/Munhumutapa/munhumutapa#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "big.js": "^5.2.2",
+    "crypto-js": "^3.1.9-1",
+    "jquery": "^3.2.1",
+    "jsbn": "^0.1.1",
+    "jsdom": "^9.12.0",
+    "pako": "^1.0.6"
+  }
+}
